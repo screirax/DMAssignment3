@@ -1,0 +1,6 @@
+c:\users\aelberg\documents\visual studio 2015\Projects\SetProgDM\SetProgDM\bin\Debug\SetProgDM.exe.config
+c:\users\aelberg\documents\visual studio 2015\Projects\SetProgDM\SetProgDM\obj\Debug\SetProgDM.csprojResolveAssemblyReference.cache
+c:\users\aelberg\documents\visual studio 2015\Projects\SetProgDM\SetProgDM\bin\Debug\SetProgDM.exe
+c:\users\aelberg\documents\visual studio 2015\Projects\SetProgDM\SetProgDM\bin\Debug\SetProgDM.pdb
+c:\users\aelberg\documents\visual studio 2015\Projects\SetProgDM\SetProgDM\obj\Debug\SetProgDM.exe
+c:\users\aelberg\documents\visual studio 2015\Projects\SetProgDM\SetProgDM\obj\Debug\SetProgDM.pdb
